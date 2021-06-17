@@ -22,3 +22,13 @@ pip3 install graphviz
 sudo apt-get install graphviz
 ```
 
+# Run the code
+Run the code by using: 
+```
+python3 family-tree.py
+```
+
+The output svg file will be called: 
+```
+sample_ancestry.gv.svg.svg
+```
