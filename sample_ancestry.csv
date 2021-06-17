@@ -1,0 +1,7 @@
+Person 1,Relation,Person 2,Gender,Details
+Jonathan,Earliest Ancestor,,M,Lorem ipusm
+Sara,Spouse,Jonathan,F,Lorem ipusm
+Henry,Child,Jonathan,M,Lorem ipusm
+Jane,Child,Jonathan,F,Lorem ipusm
+Erik,Spouse,Jane,M,Lorem ipusm
+Hannah,Child,Jonathan,F,Lorem ipusm
