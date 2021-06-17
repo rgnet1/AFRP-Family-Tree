@@ -32,3 +32,8 @@ The output svg file will be called:
 ```
 sample_ancestry.gv.svg.svg
 ```
+
+# Output:
+Here's what the sample output comes out as:
+
+![CSV Sample](images/output.svg)
